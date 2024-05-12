@@ -17,7 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 账户信息：用户名和密码
-USERNAME = 'o1003522313@gmail.com'  # 填写用户名或邮箱
+USERNAME = '填写用户名或邮箱'  # 填写用户名或邮箱
 PASSWORD = '改为你的EUserV的密码'  # 填写密码
 
 # TrueCaptcha API 配置
